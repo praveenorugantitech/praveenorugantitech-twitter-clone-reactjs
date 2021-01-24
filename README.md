@@ -1,6 +1,8 @@
 ### Twitter Clone developed using React JS and Firebase
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-projects/master/praveenorugantitech-twitter-clone/src/images/screenshot.PNG "Twitter Clone")
+<div>
+<img align="right" width="100%"  src="./src/images/screenshot.PNG" />
+</div>
 
 
 [Live Demo](https://praveenoruganti-twitter-clone.firebaseapp.com/)
