@@ -3,7 +3,7 @@
 
 ### App Screenshots
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-whatsapp-clone-reactjs/master/src/images/screenshot.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-twitter-clone-reactjs/master/src/images/screenshot.PNG)
 
 
 ### Live Demo
@@ -14,8 +14,8 @@
 ### Setup Local Instructions
 
 ```
-git clone https://github.com/praveenorugantitech/praveenorugantitech-whatsapp-clone-reactjs.git
-cd praveenorugantitech-whatsapp-clone-reactjs
+git clone https://github.com/praveenorugantitech/praveenorugantitech-twitter-clone-reactjs.git
+cd praveenorugantitech-twitter-clone-reactjs
 
 create .env file and include your firebase details
 
